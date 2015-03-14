@@ -1,0 +1,5 @@
+14/Mar/2015 00:04:48 - 127.0.0.1 "GET / HTTP/1.1" 200 OK
+14/Mar/2015 00:04:48 - 127.0.0.1 "GET /style.css HTTP/1.1" 200 OK
+14/Mar/2015 00:04:48 - 127.0.0.1 "GET /favicon.ico HTTP/1.1" 404 Not Found
+14/Mar/2015 00:06:14 - 127.0.0.1 "GET /page HTTP/1.1" 404 Not Found
+14/Mar/2015 00:06:27 - 127.0.0.1 "GET /page1.html HTTP/1.1" 404 Not Found
